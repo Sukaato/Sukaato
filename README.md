@@ -43,8 +43,8 @@
 </a>
 
 # My Contributions
-<a href="https://github.com/Ionic-team/stencil">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ionic-team&repo=stencil&title_color=269DE6&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
+<a href="https://github.com/stenciljs/core">
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stenciljs&repo=core&title_color=269DE6&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
 </a>
 <a href="https://github.com/Ionic-team/ionic-framework">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ionic-team&repo=ionic-framework&title_color=269DE6&theme=vue-dark&hide_border=true&show_icons=True" alt="github-SortedTree-stats">
